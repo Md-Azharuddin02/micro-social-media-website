@@ -91,7 +91,7 @@ include ('connection.php');
                 alert("Registerd successfully !");
                 </script>
               <?php
-              header ('location:homepage.php');
+              header ('location:loginform.php');
             }
           }
 
