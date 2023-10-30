@@ -21,7 +21,7 @@
         </div>
 
         <div class="nav-middle">
-            <a href="#" class="active">
+            <a href="" class="active">
                 <i class="fa fa-home"></i>
             </a>
 
@@ -50,14 +50,14 @@
             </a>
         </div>
     </nav>
-
-
     <div class="container">
         <div class="left-panel">
             <ul>
                 <li>
                     <span class="profile"></span>
-                    <p>Md Akram Ali</p>
+                        <!-- <a href="profileupdate.php">Md Akram Ali</a> -->
+                        <a href="profileupdate.html">Md Akram Ali</a>
+                        
                 </li>
                 <li>
                     <i class="fa fa-user-friends"></i>

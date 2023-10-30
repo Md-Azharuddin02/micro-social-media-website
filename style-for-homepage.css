@@ -98,6 +98,11 @@ nav .nav-right a{
     border-radius: 5px;
     cursor: pointer;
 }
+.container .left-panel ul li a{
+    text-decoration: none;
+    
+    
+}
 .container .left-panel ul li:hover{
    background: #ddd;
 }
@@ -208,5 +213,8 @@ nav .nav-right a{
     color:#000;
     font-size: 15px;
     left: 10px;
+}
+.left-panel ul li a{
+    color: red;
 }
 
